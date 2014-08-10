@@ -1,0 +1,4 @@
+[Project]
+Name=atsporto
+Manager=KDevCMakeManager
+VersionControl=kdevgit
